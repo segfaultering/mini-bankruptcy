@@ -1,0 +1,7 @@
+[project]
+name = "mini-bankruptcy"
+version = "0.1.0"
+description = "A team of software agents that'll build what you want them to."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
